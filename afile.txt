@@ -1,3 +1,6 @@
 This is one file.
 With more than one line.
 To read lines.
+
+what is git?
+git is a way to do revcontrol.
