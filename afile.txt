@@ -6,3 +6,8 @@ what is git?
 git is a way to do revcontrol.
 
 I just created a new branch: dev0317-1 cea6e7d
+commit 1
+commit 2
+commit 3
+commit 4
+commit 5
